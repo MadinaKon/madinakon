@@ -32,3 +32,6 @@ const madina = {
   "hobbies": [cooking, dancing, singing, sharing, travelling]
 }
 ```
+
+### Emojis, which descibe me on my coding journey
+👩‍🚀 🚀 🚧
