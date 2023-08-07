@@ -42,6 +42,9 @@ const madina = {
 }
 ```
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${madinakon}.${madinakon}.visitor-badge)
+
+
 ### Emojis, which descibe me on my coding journey
 👩‍🚀 🚀 
 
