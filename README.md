@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/YPhs6YoPXEJgFxERoG/giphy.gif" width="300" height="300" />
+<img src="https://media.giphy.com/media/YPhs6YoPXEJgFxERoG/giphy.gif?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" />
 
 # Hello world! Hello there! My name is Madina 
 
