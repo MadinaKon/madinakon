@@ -45,6 +45,9 @@ const madina = {
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${madinakon}.${madinakon}.visitor-badge)
 
 
+![Static Badge](https://img.shields.io/badge/build-passing-brightgreen)
+
+
 ### Emojis, which descibe me on my coding journey
 👩‍🚀 🚀 
 
