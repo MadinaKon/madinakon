@@ -1,5 +1,8 @@
 # Hello world! Hello there!
 
+# Background
+8 years in IT as a Software Tester. Junior React developer in the making 🚧
+
 ## What drives me to code? 
 I am here to learn how to code and being able to build beautiful projects on my own and get a Fullstack developer job!
 
@@ -34,4 +37,4 @@ const madina = {
 ```
 
 ### Emojis, which descibe me on my coding journey
-👩‍🚀 🚀 🚧
+👩‍🚀 🚀 
