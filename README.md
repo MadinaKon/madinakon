@@ -18,3 +18,13 @@ Currently I don't have a portfolio page, but I have a devtree page:
 | JS | 10 |
 | React| 10 |
 | Typescript | 0 |
+
+
+```
+const madina = {
+  "firstName": "madina",
+  "lastName": "Konurbaeva",
+  "age": NaN,
+  "hobbies": [cooking, dancing, singing, sharing, travelling]
+}
+```
