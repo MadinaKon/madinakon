@@ -1,4 +1,6 @@
-# Hello world! Hello there!
+<img src="https://media.giphy.com/media/YPhs6YoPXEJgFxERoG/giphy.gif" width="300" height="300" />
+
+# Hello world! Hello there! My name is Madina 
 
 # Background
 8 years in IT as a Software Tester. Junior React developer in the making 🚧
@@ -7,7 +9,7 @@
 I am here to learn how to code and being able to build beautiful projects on my own and get a Fullstack developer job!
 
 ## Me during this bootcamp
-<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100" height="100" />
+<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" align="center" width="100" height="100" />
 
 
 ## Link to my profile
