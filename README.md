@@ -18,7 +18,8 @@ Currently I don't have a portfolio page, but I have a devtree page:
 [devtree profile] (https://devtr.ee/MadTech)
 
 ## Favourite meme
-https://i.redd.it/30ebreq98c121.jpg
+
+<img src="https://i.redd.it/30ebreq98c121.jpg?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" />
 
 ## Tech stack in %
 
