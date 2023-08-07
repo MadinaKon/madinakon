@@ -15,6 +15,9 @@ I am here to learn how to code and being able to build beautiful projects on my 
 ## Link to my profile
 
 Currently I don't have a portfolio page, but I have a devtree page:
+
+👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻
+
 [devtree profile] (https://devtr.ee/MadTech)
 
 ## Favourite meme
@@ -41,3 +44,6 @@ const madina = {
 
 ### Emojis, which descibe me on my coding journey
 👩‍🚀 🚀 
+
+[//linkedin.com/in/madina-konurbaeva](https://www.linkedin.com/in/madina-konurbaeva/)
+
