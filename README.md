@@ -5,9 +5,8 @@
 # Background
 8 years in IT as a Software Tester. Junior React developer in the making 🚧
 
-## What drives me to code? 
-I am here to learn how to code and being able to build beautiful projects on my own and get a Fullstack developer job!
-
+💡 Why I Code
+I'm here to learn, grow, and build. My mission is to level up into a Fullstack Developer and turn my ideas into reality. Every line of code brings me one step closer.
 
 ## Link to my profile
 
