@@ -42,7 +42,7 @@ My mission is to:
 
 📍 Based in Berlin, Germany 🇩🇪  
 🌐 Portfolio: [madina-jampasee.netlify.app](https://madina-jampasee.netlify.app/)  
-📫 Reach out on [LinkedIn](https://www.linkedin.com/in/madina-jampasee/) *(if available)*  
+📫 Reach out on [LinkedIn](https://www.linkedin.com/in/madina-jampasee/)  
 📁 Resume & Projects: Available on my website!
 
 ---
